@@ -1,0 +1,587 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "DivisibilityProb",
+      "request": "launch",
+      "mainClass": "DivisibilityProb",
+      "projectName": "codeforce_13a40f47"
+    },
+    {
+      "type": "java",
+      "name": "IsYourHorseshoe",
+      "request": "launch",
+      "mainClass": "IsYourHorseshoe",
+      "projectName": "codeforce_13a40f47"
+    },
+    {
+      "type": "java",
+      "name": "addTwoLinkedList",
+      "request": "launch",
+      "mainClass": "addTwoLinkedList",
+      "projectName": "codeforce_13a40f47"
+    },
+    {
+      "type": "java",
+      "name": "middleOfLinkedList",
+      "request": "launch",
+      "mainClass": "middleOfLinkedList",
+      "projectName": "codeforce_13a40f47"
+    },
+    {
+      "type": "java",
+      "name": "newCodeEx",
+      "request": "launch",
+      "mainClass": "newCodeEx",
+      "projectName": "codeforce_13a40f47"
+    },
+    {
+      "type": "java",
+      "name": "recu",
+      "request": "launch",
+      "mainClass": "recu",
+      "projectName": "codeforce_13a40f47"
+    },
+    {
+      "type": "java",
+      "name": "streamExample",
+      "request": "launch",
+      "mainClass": "streamExample",
+      "projectName": "codeforce_13a40f47"
+    },
+    {
+      "type": "java",
+      "name": "longPalindrom",
+      "request": "launch",
+      "mainClass": "longPalindrom",
+      "projectName": "codeforce_13a40f47"
+    },
+    {
+      "type": "java",
+      "name": "excelSheetColumn",
+      "request": "launch",
+      "mainClass": "excelSheetColumn",
+      "projectName": "codeforce_13a40f47"
+    },
+    {
+      "type": "java",
+      "name": "mergeTwoSortedArray",
+      "request": "launch",
+      "mainClass": "mergeTwoSortedArray",
+      "projectName": "codeforce_13a40f47"
+    },
+    {
+      "type": "java",
+      "name": "productOfArray",
+      "request": "launch",
+      "mainClass": "productOfArray",
+      "projectName": "codeforce_13a40f47"
+    },
+    {
+      "type": "java",
+      "name": "splitwordInString",
+      "request": "launch",
+      "mainClass": "splitwordInString",
+      "projectName": "codeforce_13a40f47"
+    },
+    {
+      "type": "java",
+      "name": "reverseVowelString",
+      "request": "launch",
+      "mainClass": "reverseVowelString",
+      "projectName": "codeforce_13a40f47"
+    },
+    {
+      "type": "java",
+      "name": "floweredBed",
+      "request": "launch",
+      "mainClass": "floweredBed",
+      "projectName": "codeforce_13a40f47"
+    },
+    {
+      "type": "java",
+      "name": "kidWithCandy",
+      "request": "launch",
+      "mainClass": "kidWithCandy",
+      "projectName": "codeforce_13a40f47"
+    },
+    {
+      "type": "java",
+      "name": "greatestCommonDivString",
+      "request": "launch",
+      "mainClass": "greatestCommonDivString",
+      "projectName": "codeforce_13a40f47"
+    },
+    {
+      "type": "java",
+      "name": "myHashSet",
+      "request": "launch",
+      "mainClass": "myHashSet",
+      "projectName": "codeforce_13a40f47"
+    },
+    {
+      "type": "java",
+      "name": "MyHashSet",
+      "request": "launch",
+      "mainClass": "MyHashSet",
+      "projectName": "codeforce_13a40f47"
+    },
+    {
+      "type": "java",
+      "name": "isPallindromString",
+      "request": "launch",
+      "mainClass": "isPallindromString",
+      "projectName": "codeforce_13a40f47"
+    },
+    {
+      "type": "java",
+      "name": "findSteps",
+      "request": "launch",
+      "mainClass": "findSteps",
+      "projectName": "codeforce_13a40f47"
+    },
+    {
+      "type": "java",
+      "name": "findSqrt",
+      "request": "launch",
+      "mainClass": "findSqrt",
+      "projectName": "codeforce_13a40f47"
+    },
+    {
+      "type": "java",
+      "name": "addBinary",
+      "request": "launch",
+      "mainClass": "addBinary",
+      "projectName": "codeforce_13a40f47"
+    },
+    {
+      "type": "java",
+      "name": "plusOne",
+      "request": "launch",
+      "mainClass": "plusOne",
+      "projectName": "codeforce_13a40f47"
+    },
+    {
+      "type": "java",
+      "name": "lengthOfLastWord",
+      "request": "launch",
+      "mainClass": "lengthOfLastWord",
+      "projectName": "codeforce_13a40f47"
+    },
+    {
+      "type": "java",
+      "name": "subsStringWithCon",
+      "request": "launch",
+      "mainClass": "subsStringWithCon",
+      "projectName": "codeforce_13a40f47"
+    },
+    {
+      "type": "java",
+      "name": "findTheIndexOfOccurence",
+      "request": "launch",
+      "mainClass": "findTheIndexOfOccurence",
+      "projectName": "codeforce_13a40f47"
+    },
+    {
+      "type": "java",
+      "name": "validParanthese",
+      "request": "launch",
+      "mainClass": "validParanthese",
+      "projectName": "codeforce_13a40f47"
+    },
+    {
+      "type": "java",
+      "name": "wordBreak",
+      "request": "launch",
+      "mainClass": "wordBreak",
+      "projectName": "codeforce_13a40f47"
+    },
+    {
+      "type": "java",
+      "name": "strongPassword",
+      "request": "launch",
+      "mainClass": "strongPassword",
+      "projectName": "codeforce_13a40f47"
+    },
+    {
+      "type": "java",
+      "name": "buySellStock",
+      "request": "launch",
+      "mainClass": "buySellStock",
+      "projectName": "codeforce_13a40f47"
+    },
+    {
+      "type": "java",
+      "name": "PlayerRatingInRange",
+      "request": "launch",
+      "mainClass": "PlayerRatingInRange",
+      "projectName": "codeforce_13a40f47"
+    },
+    {
+      "type": "java",
+      "name": "playerRatingInRange",
+      "request": "launch",
+      "mainClass": "playerRatingInRange",
+      "projectName": "codeforce_13a40f47"
+    },
+    {
+      "type": "java",
+      "name": "minAbsDiff",
+      "request": "launch",
+      "mainClass": "minAbsDiff",
+      "projectName": "codeforce_13a40f47"
+    },
+    {
+      "type": "java",
+      "name": "characterCount",
+      "request": "launch",
+      "mainClass": "characterCount",
+      "projectName": "codeforce_13a40f47"
+    },
+    {
+      "type": "java",
+      "name": "ThreadPoolExecutorExample",
+      "request": "launch",
+      "mainClass": "ThreadPoolExecutorExample",
+      "projectName": "codeforce_13a40f47"
+    },
+    {
+      "type": "java",
+      "name": "SpiralMatrix",
+      "request": "launch",
+      "mainClass": "SpiralMatrix",
+      "projectName": "codeforce_13a40f47"
+    },
+    {
+      "type": "java",
+      "name": "countRepeatedItem",
+      "request": "launch",
+      "mainClass": "countRepeatedItem",
+      "projectName": "codeforce_13a40f47"
+    },
+    {
+      "type": "java",
+      "name": "addMatrix",
+      "request": "launch",
+      "mainClass": "addMatrix",
+      "projectName": "codeforce_13a40f47"
+    },
+    {
+      "type": "java",
+      "name": "reverseStringWithoutLopOrFun",
+      "request": "launch",
+      "mainClass": "reverseStringWithoutLopOrFun",
+      "projectName": "codeforce_13a40f47"
+    },
+    {
+      "type": "java",
+      "name": "generatePrime",
+      "request": "launch",
+      "mainClass": "generatePrime",
+      "projectName": "codeforce_13a40f47"
+    },
+    {
+      "type": "java",
+      "name": "secondLarge",
+      "request": "launch",
+      "mainClass": "secondLarge",
+      "projectName": "codeforce_13a40f47"
+    },
+    {
+      "type": "java",
+      "name": "SortA",
+      "request": "launch",
+      "mainClass": "SortA",
+      "projectName": "codeforce_13a40f47"
+    },
+    {
+      "type": "java",
+      "name": "swapNum",
+      "request": "launch",
+      "mainClass": "swapNum",
+      "projectName": "codeforce_13a40f47"
+    },
+    {
+      "type": "java",
+      "name": "GFG",
+      "request": "launch",
+      "mainClass": "GFG",
+      "projectName": "codeforce_13a40f47"
+    },
+    {
+      "type": "java",
+      "name": "juice",
+      "request": "launch",
+      "mainClass": "juice",
+      "projectName": "codeforce_13a40f47"
+    },
+    {
+      "type": "java",
+      "name": "moveNegativeLeft",
+      "request": "launch",
+      "mainClass": "moveNegativeLeft",
+      "projectName": "codeforce_13a40f47"
+    },
+    {
+      "type": "java",
+      "name": "mergeSort",
+      "request": "launch",
+      "mainClass": "mergeSort",
+      "projectName": "codeforce_13a40f47"
+    },
+    {
+      "type": "java",
+      "name": "reverseInt",
+      "request": "launch",
+      "mainClass": "reverseInt",
+      "projectName": "codeforce_13a40f47"
+    },
+    {
+      "type": "java",
+      "name": "bubbleSort",
+      "request": "launch",
+      "mainClass": "bubbleSort",
+      "projectName": "codeforce_13a40f47"
+    },
+    {
+      "type": "java",
+      "name": "selectionSort",
+      "request": "launch",
+      "mainClass": "selectionSort",
+      "projectName": "codeforce_13a40f47"
+    },
+    {
+      "type": "java",
+      "name": "patterns",
+      "request": "launch",
+      "mainClass": "patterns",
+      "projectName": "codeforce_13a40f47"
+    },
+    {
+      "type": "java",
+      "name": "LinkedListExample",
+      "request": "launch",
+      "mainClass": "LinkedListExample",
+      "projectName": "codeforce_13a40f47"
+    },
+    {
+      "type": "java",
+      "name": "binearySearchAlgo",
+      "request": "launch",
+      "mainClass": "binearySearchAlgo",
+      "projectName": "codeforce_13a40f47"
+    },
+    {
+      "type": "java",
+      "name": "newCode",
+      "request": "launch",
+      "mainClass": "newCode",
+      "projectName": "codeforce_13a40f47"
+    },
+    {
+      "type": "java",
+      "name": "nextPermutation",
+      "request": "launch",
+      "mainClass": "nextPermutation",
+      "projectName": "codeforce_13a40f47"
+    },
+    {
+      "type": "java",
+      "name": "twoSum",
+      "request": "launch",
+      "mainClass": "twoSum",
+      "projectName": "codeforce_13a40f47"
+    },
+    {
+      "type": "java",
+      "name": "findGCDorHCF",
+      "request": "launch",
+      "mainClass": "findGCDorHCF",
+      "projectName": "codeforce_13a40f47"
+    },
+    {
+      "type": "java",
+      "name": "isPalindrom",
+      "request": "launch",
+      "mainClass": "isPalindrom",
+      "projectName": "codeforce_13a40f47"
+    },
+    {
+      "type": "java",
+      "name": "BeautifulYear",
+      "request": "launch",
+      "mainClass": "BeautifulYear",
+      "projectName": "codeforce_13a40f47"
+    },
+    {
+      "type": "java",
+      "name": "timeAndDateFormat",
+      "request": "launch",
+      "mainClass": "timeAndDateFormat",
+      "projectName": "codeforce_13a40f47"
+    },
+    {
+      "type": "java",
+      "name": "hulk",
+      "request": "launch",
+      "mainClass": "hulk",
+      "projectName": "codeforce_13a40f47"
+    },
+    {
+      "type": "java",
+      "name": "UltraFastMathematician",
+      "request": "launch",
+      "mainClass": "UltraFastMathematician",
+      "projectName": "codeforce_fa63b945"
+    },
+    {
+      "type": "java",
+      "name": "juice",
+      "request": "launch",
+      "mainClass": "juice",
+      "projectName": "codeforce_fa63b945"
+    },
+    {
+      "type": "java",
+      "name": "showStopper",
+      "request": "launch",
+      "mainClass": "coderound860.showStopper",
+      "projectName": "codeforce_fa63b945"
+    },
+    {
+      "type": "java",
+      "name": "Magnets",
+      "request": "launch",
+      "mainClass": "Magnets",
+      "projectName": "codeforce_fa63b945"
+    },
+    {
+      "type": "java",
+      "name": "present",
+      "request": "launch",
+      "mainClass": "present",
+      "projectName": "codeforce_fa63b945"
+    },
+    {
+      "type": "java",
+      "name": "presents",
+      "request": "launch",
+      "mainClass": "presents",
+      "projectName": "codeforce_fa63b945"
+    },
+    {
+      "type": "java",
+      "name": "accomodation",
+      "request": "launch",
+      "mainClass": "accomodation",
+      "projectName": "codeforce_fa63b945"
+    },
+    {
+      "type": "java",
+      "name": "SearchofanEasyProblem",
+      "request": "launch",
+      "mainClass": "SearchofanEasyProblem",
+      "projectName": "codeforce_fa63b945"
+    },
+    {
+      "type": "java",
+      "name": "BeautifulYear",
+      "request": "launch",
+      "mainClass": "BeautifulYear",
+      "projectName": "codeforce_fa63b945"
+    },
+    {
+      "type": "java",
+      "name": "VanyaAndFence",
+      "request": "launch",
+      "mainClass": "VanyaAndFence",
+      "projectName": "codeforce_fa63b945"
+    },
+    {
+      "type": "java",
+      "name": "QueueattheSchool",
+      "request": "launch",
+      "mainClass": "QueueattheSchool",
+      "projectName": "codeforce_fa63b945"
+    },
+    {
+      "type": "java",
+      "name": "Translation",
+      "request": "launch",
+      "mainClass": "Translation",
+      "projectName": "codeforce_fa63b945"
+    },
+    {
+      "type": "java",
+      "name": "tramLinear",
+      "request": "launch",
+      "mainClass": "tramLinear",
+      "projectName": "codeforce_fa63b945"
+    },
+    {
+      "type": "java",
+      "name": "AntonandDanik",
+      "request": "launch",
+      "mainClass": "AntonandDanik",
+      "projectName": "codeforce_fa63b945"
+    },
+    {
+      "type": "java",
+      "name": "NearlyLuckyNumber",
+      "request": "launch",
+      "mainClass": "NearlyLuckyNumber",
+      "projectName": "codeforce_fa63b945"
+    },
+    {
+      "name": "(gdb) Attach",
+      "type": "cppdbg",
+      "request": "attach",
+      "program": "enter program name, for example ${workspaceFolder}/a.exe",
+      "MIMode": "gdb",
+      "miDebuggerPath": "/path/to/gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        },
+        {
+          "description": "Set Disassembly Flavor to Intel",
+          "text": "-gdb-set disassembly-flavor intel",
+          "ignoreFailures": true
+        }
+      ]
+    },
+    {
+      "name": "(Windows) Launch",
+      "type": "cppvsdbg",
+      "request": "launch",
+      "program": "enter program name, for example ${workspaceFolder}/a.exe",
+      "args": [],
+      "stopAtEntry": false,
+      "cwd": "${fileDirname}",
+      "environment": [],
+      "console": "externalTerminal"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "e:/Users/sudha/Searches/Desktop/codeforce",
+      "program": "e:/Users/sudha/Searches/Desktop/codeforce/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
