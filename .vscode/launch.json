@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "RemoveDuplicates",
+      "request": "launch",
+      "mainClass": "LinkedList.RemoveDuplicates",
+      "projectName": "codeforce_deff7c46"
+    },
+    {
+      "type": "java",
+      "name": "addTwoLinkedList",
+      "request": "launch",
+      "mainClass": "LinkedList.addTwoLinkedList",
+      "projectName": "codeforce_deff7c46"
+    },
+    {
+      "type": "java",
       "name": "DivisibilityProb",
       "request": "launch",
       "mainClass": "DivisibilityProb",
