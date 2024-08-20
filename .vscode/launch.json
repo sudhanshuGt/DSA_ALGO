@@ -3,6 +3,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "GroupAnagram",
+      "request": "launch",
+      "mainClass": "GroupAnagram",
+      "projectName": "codeforce_deff7c46"
+    },
+    {
+      "type": "java",
+      "name": "neRandomValue",
+      "request": "launch",
+      "mainClass": "neRandomValue",
+      "projectName": "codeforce_deff7c46"
+    },
+    {
+      "type": "java",
+      "name": "newCode",
+      "request": "launch",
+      "mainClass": "newCode",
+      "projectName": "codeforce_deff7c46"
+    },
+    {
+      "type": "java",
       "name": "RemoveDuplicates",
       "request": "launch",
       "mainClass": "LinkedList.RemoveDuplicates",
