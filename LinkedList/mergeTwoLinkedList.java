@@ -91,7 +91,5 @@ public class mergeTwoLinkedList {
         
         printListNode(mergeTwoList());
         
-
-
     }
 }

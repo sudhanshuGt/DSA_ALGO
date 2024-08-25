@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "minimuOperation",
+      "request": "launch",
+      "mainClass": "minimuOperation",
+      "projectName": "codeforce_deff7c46"
+    },
+    {
+      "type": "java",
+      "name": "isPalindrom",
+      "request": "launch",
+      "mainClass": "isPalindrom",
+      "projectName": "codeforce_deff7c46"
+    },
+    {
+      "type": "java",
       "name": "GroupAnagram",
       "request": "launch",
       "mainClass": "GroupAnagram",
