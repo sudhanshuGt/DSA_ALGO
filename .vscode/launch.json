@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "valueAfterOperation",
+      "request": "launch",
+      "mainClass": "valueAfterOperation",
+      "projectName": "codeforce_deff7c46"
+    },
+    {
+      "type": "java",
       "name": "minimuOperation",
       "request": "launch",
       "mainClass": "minimuOperation",
