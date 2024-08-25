@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "numberOfGoodPairs",
+      "request": "launch",
+      "mainClass": "numberOfGoodPairs",
+      "projectName": "codeforce_deff7c46"
+    },
+    {
+      "type": "java",
       "name": "valueAfterOperation",
       "request": "launch",
       "mainClass": "valueAfterOperation",
