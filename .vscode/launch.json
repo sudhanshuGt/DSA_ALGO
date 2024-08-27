@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "largestValueInMatrix",
+      "request": "launch",
+      "mainClass": "largestValueInMatrix",
+      "projectName": "codeforce_deff7c46"
+    },
+    {
+      "type": "java",
       "name": "suffleArray",
       "request": "launch",
       "mainClass": "suffleArray",
